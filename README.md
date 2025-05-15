@@ -2,6 +2,10 @@ NavBar Esencial para Aplicaciones Web
 NavBar Preview
 ![Screenshot_1](https://github.com/user-attachments/assets/a8080d54-887b-40cd-b71b-e794f98752e9)
 
+![Screenshot_2](https://github.com/user-attachments/assets/1a98b0e0-3a9f-42a8-821b-364ad96ce863)
+
+![Screenshot_3](https://github.com/user-attachments/assets/79abb9da-2650-49a3-84f9-cc3add9c9494)
+
 Un NavBar (Barra de Navegación) moderno, responsive y altamente personalizable, diseñado con CSS puro y JavaScript vanilla, perfecto para integrar en cualquier proyecto web.
 
 🌟 Características
